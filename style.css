@@ -91,10 +91,17 @@ nav li:hover {
    border-radius: 30px;
 }
 .header-text button:hover{
-    background-color: white;
+    margin-top: 10vh;
+    background-color: transparent;
     color: #29A28C;
     cursor: pointer;
     transition: all 0.2s;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 12px 39px;
+    border: 1px solid #29A28C;
 }
 .header-text img{
     display: block;
